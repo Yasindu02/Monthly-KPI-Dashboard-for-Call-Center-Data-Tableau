@@ -1,0 +1,3 @@
+A KPI is a Key Performance Indicator dashboards. They're used to provide a snapshot of your organization's key metrics or performance indicators. These indicators are typically aligned with the organization's strategic objectives and goals, allowing stakeholders to monitor progress, identify trends, and make informed decisions.
+
+These are one of the most common types of dashboards that you are going to create as an Analyst. This is a dashboard I've made in real life with very similar data so this is a very real and applicable project!
